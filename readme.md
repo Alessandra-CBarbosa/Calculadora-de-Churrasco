@@ -1,0 +1,1 @@
+Trabalhei nesse projeto com html, css e javascript, aonde desenvolvi uma calculadora de churrasco. Projeto avaliativo da faculdade Unicesumar. 
