@@ -50,7 +50,7 @@ button {
 }
 
 button:hover {
-    background-color: #f11fbd;
+    background: linear-gradient(to bottom,#f0f0f0 , #e243c0);
 }
 
 #resultado {

@@ -36,3 +36,5 @@ function calcular() {
         Total de cerveja: ${totalCerveja.toFixed(2)} L
     `;
 }
+
+
